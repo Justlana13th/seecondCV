@@ -1,0 +1,122 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Source Serif Pro", serif;
+}
+
+.first-container {
+  background-color: #d3f4ff;
+  position: relative;
+}
+
+.name {
+  font-family: "Satisfy", cursive;
+  color: #cd4dcc;
+  font-weight: normal;
+  font-size: 5rem;
+  margin: 20px auto 0px auto;
+}
+
+.programmer {
+  font-family: "Indie Flower", cursive;
+  color: #f65c78;
+  font-weight: normal;
+  font-size: 1.8rem;
+  margin-top: 0;
+}
+
+.batman {
+  width: 10%;
+  display: block;
+  margin: -23px 25% auto auto;
+  padding-top: 25px;
+  transform: rotate(180deg);
+}
+
+.robot {
+  display: block;
+  right: 300px;
+  width: 10%;
+  margin: auto auto -5px 25%;
+}
+
+.second-container {
+  background-color: #b2dffb;
+  padding: 20px 0 0 0;
+}
+
+.lana {
+  width: 15%;
+  border-radius: 50%;
+}
+
+h2 {
+  color: #5e5c6c;
+  font-size: 2rem;
+  font-family: "Source Serif Pro", serif;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+.first-p {
+  font-size: 1rem;
+  font-family: "Source Serif Pro", serif;
+  font-weight: normal;
+  color: #5e5c6c;
+  margin: auto;
+  width: 15%;
+}
+
+.minion {
+  display: block;
+  margin: auto auto -2px auto;
+}
+
+.third-container {
+  background-color: #e7a4e4;
+  padding-top: 30px;
+}
+
+.web-dev {
+  width: 50%;
+  margin: 10px auto 10px auto;
+  padding-bottom: 30px;
+  text-align: left;
+  line-height: 2;
+}
+
+.react {
+  float: left;
+  margin-right: 30px;
+}
+
+.nodeJs {
+  float: right;
+  margin-left: 30px;
+}
+
+.fourth-container {
+  background-color: #ffc55c;
+  margin-top: -10px;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+
+.git {
+  margin: 30px auto;
+  padding: 100px auto;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+.link {
+  display: inline;
+  margin: 30px 20px;
+  padding-bottom: 30px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+footer {
+  padding: 50px auto;
+}
